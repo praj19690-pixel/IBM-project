@@ -1,0 +1,12 @@
+
+# Dataset files — keep local, do not upload
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.env
+.venv/

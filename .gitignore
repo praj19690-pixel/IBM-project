@@ -1,0 +1,11 @@
+# Keep datasets local
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.venv/
